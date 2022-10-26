@@ -8,6 +8,10 @@
 # 1.0.1
 
 * Add image/webp mimeType lookup by header bytes.
+* Add audio/weba mimeType lookup by header bytes.
+* Add audio/aac mimeType lookup by header bytes.
+* Add audio/mp3 mimeType lookup by header bytes.
+* Add audio/ogg mimeType lookup by header bytes.
 
 # 1.0.0
 
