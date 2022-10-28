@@ -891,7 +891,7 @@ const Map<String, String> defaultExtensionMap = <String, String>{
   'wcm': 'application/vnd.ms-works',
   'wdb': 'application/vnd.ms-works',
   'wdp': 'image/vnd.ms-photo',
-  'weba': 'audio/webm',
+  'weba': 'audio/weba',
   'webm': 'video/webm',
   'webp': 'image/webp',
   'wg': 'application/vnd.pmi.widget',
